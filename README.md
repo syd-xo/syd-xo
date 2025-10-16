@@ -21,7 +21,7 @@
 
 ### 🖤 About Me  
 🌸 I’m a second-year Computer Science student passionate about **AI, Machine Learning, and Web Development**.  
-🌙 I love blending *creativity with code* — building things that look as good as they work.  
+🌙 I love blending _creativity with code_ - building things that look as good as they work.  
 ☕ Fueled by caffeine, lo-fi beats, and dreams that glow in pink and black.  
 ✨ I believe in coding with heart and aesthetics 💕  
 
@@ -43,7 +43,7 @@
 ### 🌸 Currently  
 - 🌱 Learning **AI & Machine Learning**  
 - 💻 Building projects in **Python**, **Flutter** and **Java**  
-- 🧠 Expanding my knowledge in **Web App Development**  
+- 🧠 Expanding my knowledge in **Internet Application Programming**  
 - 🎯 Leveling up my coding & aesthetic game
 
 <p align="center">
