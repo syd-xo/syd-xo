@@ -1,16 +1,14 @@
 <!-- 🌸 My Improved GitHub Profile 🌸 -->
 
+<!--
 <p align="center">
   <img src="banner.png" width="800px" alt="Aisha Banner"/>
 </p>
-
+-->
+### 🩷 Hey there, I'm Sydney 
 
 <h3 align="center">🌸 Welcome to my world of code 🌙</h3>
-<h4 align="center"><i>✨ the intersection between creativity and code ✨</i></h4>
-
-<p align="center">
-  <img src="https://github.com/andreasbm/readme/raw/master/assets/lines/rainbow.png" width="100%" height="2px" alt="sparkle divider"/>
-</p>
+<!-- <h4 align="center"><i>✨ the intersection between creativity and code ✨</i></h4> -->
 
 <p align="center">
   <em>💻 Computer Science Student | 🌷 Aspiring AI Engineer | ☕ Tech & Aesthetic Lover</em>
@@ -69,6 +67,9 @@
   <a href="mailto:sydneyaisha4@gmail.com">
     <img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=000000" />
   </a>
+
+  <p align="center"><i>Let’s connect and create something beautiful 💌</i></p>
+
   
   <!--
   <a href="https://linkedin.com/in/myprofile">
@@ -93,3 +94,4 @@
 <br>
 
 <p align="center">✨ Made with love & caffeine ☕ by <strong style="color:#ffb6c1;">Aisha</strong> 🌸</p>
+](https://strathmoreuni-my.sharepoint.com/?login_hint=Aisha%2ESydney%40O365%2Estrathmore%2Eedu&source=waffle)
