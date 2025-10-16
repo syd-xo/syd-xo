@@ -4,15 +4,22 @@
   <img src="banner.png" width="800px" alt="Aisha Banner"/>
 </p>
 
----
+
+<h3 align="center">🌸 Welcome to my world of code 🌙</h3>
+<h4 align="center"><i>✨ the intersection between creativity and code ✨</i></h4>
+
+<p align="center">
+  <img src="https://github.com/andreasbm/readme/raw/master/assets/lines/rainbow.png" width="100%" height="2px" alt="sparkle divider"/>
+</p>
 
 <p align="center">
   <em>💻 Computer Science Student | 🌷 Aspiring AI Engineer | ☕ Tech & Aesthetic Lover</em>
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/9d/32/1a/9d321ab8655373e6a8db8c2a2c52e3ec.gif" width="100%" height="2px" alt="sparkle divider"/>
+  <img src="https://github.com/andreasbm/readme/raw/master/assets/lines/rainbow.png" width="100%" height="2px" alt="sparkle divider"/>
 </p>
+
 
 ### 🖤 About Me  
 🌸 I’m a second-year Computer Science student passionate about **AI, Machine Learning, and Web Development**.  
@@ -21,27 +28,30 @@
 ✨ I believe in coding with heart and aesthetics 💕  
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/9d/32/1a/9d321ab8655373e6a8db8c2a2c52e3ec.gif" width="100%" height="2px" alt="sparkle divider"/>
+  <img src="https://github.com/andreasbm/readme/raw/master/assets/lines/rainbow.png" width="100%" height="2px" alt="sparkle divider"/>
 </p>
 
-### 💻 Tech Stack  
+
+### 💻 Tech Stack ⚙️
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,postgresql" />
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/9d/32/1a/9d321ab8655373e6a8db8c2a2c52e3ec.gif" width="100%" height="2px" alt="sparkle divider"/>
+  <img src="https://github.com/andreasbm/readme/raw/master/assets/lines/rainbow.png" width="100%" height="2px" alt="sparkle divider"/>
 </p>
+
 
 ### 🌸 Currently  
 - 🌱 Learning **AI & Machine Learning**  
 - 💻 Building projects in **Python**, **Flutter** and **Java**  
 - 🧠 Expanding my knowledge in **Web App Development**  
-- 🎯 Leveling up my coding & aesthetic game  
+- 🎯 Leveling up my coding & aesthetic game
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/9d/32/1a/9d321ab8655373e6a8db8c2a2c52e3ec.gif" width="100%" height="2px" alt="sparkle divider"/>
+  <img src="https://github.com/andreasbm/readme/raw/master/assets/lines/rainbow.png" width="100%" height="2px" alt="sparkle divider"/>
 </p>
+
 
 ### 🌙 GitHub Stats  
 <p align="center">
@@ -50,27 +60,36 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/9d/32/1a/9d321ab8655373e6a8db8c2a2c52e3ec.gif" width="100%" height="2px" alt="sparkle divider"/>
+  <img src="https://github.com/andreasbm/readme/raw/master/assets/lines/rainbow.png" width="100%" height="2px" alt="sparkle divider"/>
 </p>
+
 
 ### 💌 Connect With Me  
 <p align="center">
   <a href="mailto:sydneyaisha4@gmail.com">
     <img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=000000" />
   </a>
+  
+  <!--
+  <a href="https://linkedin.com/in/myprofile">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ffb6c1"/>
+  </a>
+-->
+  
 </p>
 
+<br>
+
 <p align="center">
-  <img src="https://i.pinimg.com/originals/9d/32/1a/9d321ab8655373e6a8db8c2a2c52e3ec.gif" width="100%" height="2px" alt="sparkle divider"/>
+  <img src="https://github.com/andreasbm/readme/raw/master/assets/lines/rainbow.png" width="100%" height="2px" alt="sparkle divider"/>
 </p>
+
+<br>
+<br>
 
 ### 🌷 Quote I Love  
 > “Code like a girl. Think like a queen.” 👑  
 
----
+<br>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/6b/d7/f7/6bd7f7edbca061db1f6ec8d61e12643f.gif" width="150px" />
-</p>
-
-<p align="center">✨ Made with love & caffeine ☕ by <strong>Aisha</strong> 🌸</p>
+<p align="center">✨ Made with love & caffeine ☕ by <strong style="color:#ffb6c1;">Aisha</strong> 🌸</p>
