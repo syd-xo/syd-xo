@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/syd-xo/syd-xo/blob/main/banner.png" width="800px" alt="Aisha Banner"/>
+  <img src="banner.png" width="800px" alt="Aisha Banner"/>
 </p>
 
 ---
