@@ -5,7 +5,7 @@
   <img src="banner.png" width="800px" alt="Aisha Banner"/>
 </p>
 -->
-### 🩷 Hey there, I'm Sydney 
+### 🩷 Hey there, I'm Sydney Aisha
 
 <h3 align="center">🌸 Welcome to my world of code 🌙</h3>
 <!-- <h4 align="center"><i>✨ the intersection between creativity and code ✨</i></h4> -->
