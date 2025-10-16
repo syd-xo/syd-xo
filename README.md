@@ -94,4 +94,3 @@
 <br>
 
 <p align="center">✨ Made with love & caffeine ☕ by <strong style="color:#ffb6c1;">Aisha</strong> 🌸</p>
-](https://strathmoreuni-my.sharepoint.com/?login_hint=Aisha%2ESydney%40O365%2Estrathmore%2Eedu&source=waffle)
