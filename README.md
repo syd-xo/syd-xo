@@ -1,18 +1,14 @@
 <!-- 🌸 My Improved GitHub Profile 🌸 -->
 
-<h1 align="center">✨ Hey, I'm Aisha 🌸</h1>
-
-<p align="center">
-  <em>💻 Computer Science Student | 🌷 Aspiring AI Engineer | ☕ Tech & Aesthetic Lover</em>
-</p>
-
----
-
 <p align="center">
   <img src="banner.png" width="800px" alt="Aisha Banner"/>
 </p>
 
 ---
+
+<p align="center">
+  <em>💻 Computer Science Student | 🌷 Aspiring AI Engineer | ☕ Tech & Aesthetic Lover</em>
+</p>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/9d/32/1a/9d321ab8655373e6a8db8c2a2c52e3ec.gif" width="100%" height="2px" alt="sparkle divider"/>
