@@ -1,4 +1,4 @@
-<!-- 🌸 My GitHub Profile 🌸 -->
+<!-- 🌸 My Improved GitHub Profile 🌸 -->
 
 <h1 align="center">✨ Hey, I'm Aisha 🌸</h1>
 
@@ -14,28 +14,38 @@
 
 ---
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/9d/32/1a/9d321ab8655373e6a8db8c2a2c52e3ec.gif" width="100%" height="2px" alt="sparkle divider"/>
+</p>
+
 ### 🖤 About Me  
 🌸 I’m a second-year Computer Science student passionate about **AI, Machine Learning, and Web Development**.  
 🌙 I love blending *creativity with code* — building things that look as good as they work.  
 ☕ Fueled by caffeine, lo-fi beats, and dreams that glow in pink and black.  
 ✨ I believe in coding with heart and aesthetics 💕  
 
----
+<p align="center">
+  <img src="https://i.pinimg.com/originals/9d/32/1a/9d321ab8655373e6a8db8c2a2c52e3ec.gif" width="100%" height="2px" alt="sparkle divider"/>
+</p>
 
 ### 💻 Tech Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,postgresql" />
 </p>
 
----
+<p align="center">
+  <img src="https://i.pinimg.com/originals/9d/32/1a/9d321ab8655373e6a8db8c2a2c52e3ec.gif" width="100%" height="2px" alt="sparkle divider"/>
+</p>
 
 ### 🌸 Currently  
 - 🌱 Learning **AI & Machine Learning**  
-- 💻 Building projects in **Python** and **Java**  
+- 💻 Building projects in **Python**, **Flutter** and **Java**  
 - 🧠 Expanding my knowledge in **Web App Development**  
 - 🎯 Leveling up my coding & aesthetic game  
 
----
+<p align="center">
+  <img src="https://i.pinimg.com/originals/9d/32/1a/9d321ab8655373e6a8db8c2a2c52e3ec.gif" width="100%" height="2px" alt="sparkle divider"/>
+</p>
 
 ### 🌙 GitHub Stats  
 <p align="center">
@@ -43,7 +53,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=syd-xo&theme=tokyonight_duo&background=000000&ring=ffb6c1&fire=ffb6c1&currStreakLabel=ffb6c1" height="160" />
 </p>
 
----
+<p align="center">
+  <img src="https://i.pinimg.com/originals/9d/32/1a/9d321ab8655373e6a8db8c2a2c52e3ec.gif" width="100%" height="2px" alt="sparkle divider"/>
+</p>
 
 ### 💌 Connect With Me  
 <p align="center">
@@ -52,7 +64,9 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://i.pinimg.com/originals/9d/32/1a/9d321ab8655373e6a8db8c2a2c52e3ec.gif" width="100%" height="2px" alt="sparkle divider"/>
+</p>
 
 ### 🌷 Quote I Love  
 > “Code like a girl. Think like a queen.” 👑  
