@@ -11,7 +11,7 @@
 <!-- <h4 align="center"><i>✨ the intersection between creativity and code ✨</i></h4> -->
 
 <p align="center">
-  <em>💻 Computer Science Student | 🌷 Aspiring AI Engineer | ☕ Tech & Aesthetic Lover</em>
+  <em>💻 Computer Science Student | 🌷 Aspiring AI Engineer | 🩷 Aspiring iOS Developers | ☕ Tech & Aesthetic Lover</em>
 </p>
 
 <p align="center">
